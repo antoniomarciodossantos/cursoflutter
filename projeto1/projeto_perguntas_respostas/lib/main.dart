@@ -23,7 +23,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
     final List<String> perguntas = [
       'Qual é a sua cor favorita',
       'Qual é seu animal favorito',
-      'outro item',
+      
       
       
     ];
